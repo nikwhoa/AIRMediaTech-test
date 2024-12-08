@@ -1,0 +1,8 @@
+- [x] Set up project
+- [ ] Header
+- [ ] First section
+- [ ] Second section
+- [ ] Third section
+- [ ] Fourth section
+- [ ] Mobile version
+- [ ] Animations
